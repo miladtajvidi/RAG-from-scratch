@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./rag.png" alt="Description of image" width="300">
+  <img src="./RAG.png" alt="Description of image" width="300">
 </p>
 
 # RAG-from-scratch
